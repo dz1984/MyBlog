@@ -8,6 +8,7 @@
 <html class="{{ html_class | lower }}">
 <head>
   {% include '_partials/head.swig' %}
+  {% block header %}{% endblock %}
   <title>{% block title %}{% endblock %}</title>
 </head>
 
