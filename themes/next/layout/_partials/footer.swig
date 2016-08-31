@@ -1,5 +1,5 @@
 <div class='text-center'>
-    <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
         <img alt="創用 CC 授權條款" style="border-width:0" src="{{ site.url }}/images/cc_license.png" /></a>
 </div>
 <div class="copyright" >

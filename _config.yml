@@ -72,3 +72,6 @@ deploy:
   repo: git@github.com:dz1984/dz1984.github.io.git
   branch: master
   message: 
+
+image_minifier:
+  enable: false

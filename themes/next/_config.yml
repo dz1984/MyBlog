@@ -359,36 +359,36 @@ vendors:
   _internal: vendors
 
   # Internal version: 2.1.3
-  jquery:
+  jquery: //cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
 
   # Internal version: 2.1.5
   # http://fancyapps.com/fancybox/
-  fancybox:
-  fancybox_css:
+  fancybox: //cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js
+  fancybox_css: //cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css
 
   # Internal version: 1.0.6
   # https://github.com/ftlabs/fastclick
-  fastclick:
+  fastclick: //cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 
   # Internal version: 1.9.7
   # https://github.com/tuupola/jquery_lazyload
-  lazyload:
+  lazyload: //cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js
 
   # Internal version: 1.2.1
   # http://VelocityJS.org
-  velocity:
+  velocity: //cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js
 
   # Internal version: 1.2.1
   # http://VelocityJS.org
-  velocity_ui:
+  velocity_ui: //cdnjs.cloudflare.com/ajax/libs/velocity/1.2.1/velocity.ui.min.js
 
   # Internal version: 0.7.9
   # https://faisalman.github.io/ua-parser-js/
-  ua_parser:
+  ua_parser: //cdnjs.cloudflare.com/ajax/libs/UAParser.js/0.7.9/ua-parser.min.js
 
   # Internal version: 4.4.0
   # http://fontawesome.io/
-  fontawesome:
+  fontawesome: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css
 
 
 # Assets
