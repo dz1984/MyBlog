@@ -34,6 +34,7 @@ menu:
   archives: /archives
   tags: /tags
   #commonweal: /404.html
+  quote: /quote
 
 
 # Enable/Disable menu icons.
@@ -50,6 +51,7 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  quote: quote-right
 
 
 
