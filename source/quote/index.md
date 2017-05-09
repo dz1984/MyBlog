@@ -3,6 +3,14 @@ title:  呢喃
 comments: false
 ---
 <div class='quote'>
+<h3>2017</h3>
+<blockquote>只有從你手中打一下後，才能真正教會你什麼叫作「不痛」。打中的當下便知痛，痛是為了說明不痛，猶如世俗諦與第一義諦。</blockquote>
+<blockquote>發現自己的盲點，猶如在伸手不見五指情況下，找出一條通往安全的道路。</blockquote>
+<blockquote>陌生是我對臺北市的印象，疏遠是我和這城市目前關係，我們已成為最熟悉的陌生人。</blockquote>
+<blockquote>喜歡完美根本是個天大謊言，人們接受的，仍是不完美，那是因為只有在不完美面前，才能舒坦而不自卑，全然無違和感。</blockquote>
+<blockquote>若我真能如此超脫世俗，何故貪瞋痴卻又甩不開，喜怒哀樂形於外呢？有時自見都感嘆，明明是個俗人，何故自命清高呀！</blockquote>
+<blockquote>生命短暫的可悲，只有活著的人，才有的感嘆！</blockquote>
+<blockquote>拜讀徐皓峰的《 坐看重圍 》，有著醍醐灌頂般得到啟發，話語間充斥著哲理，蘊含著智慧，拳法只是方便之門，其背後是攻防進退的大道理。﻿</blockquote>
 <h3>2016</h3>
 <blockquote>在成為尼采所說的超人之前，你應該先學會否定，擁有一股透視否定自我的能力。﻿</blockquote>
 
