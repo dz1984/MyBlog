@@ -273,6 +273,9 @@ disqus_shortname: dz1984
 # Google Analytics
 google_analytics: UA-43075793-1
 
+# Google Optimize
+google_optimizes: GTM-T86JHX2
+
 # CNZZ count
 #cnzz_siteid:
 
