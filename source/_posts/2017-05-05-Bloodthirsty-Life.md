@@ -2,7 +2,7 @@
 layout: post
 title: 嗜血的命
 categories: articles
-tags: [創作, 極短篇]
+tags: [創作, 微寫作]
 date: 2017-05-05 10:00
 ---
 
