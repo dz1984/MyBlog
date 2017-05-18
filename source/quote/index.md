@@ -4,6 +4,7 @@ comments: false
 ---
 <div class='quote'>
 <h3>2017</h3>
+<blockquote>中文系對文字的精準表達，就好比設計系對顏色的正確色感。</blockquote>
 <blockquote>只有從你手中打一下後，才能真正教會你什麼叫作「不痛」。打中的當下便知痛，痛是為了說明不痛，猶如世俗諦與第一義諦。</blockquote>
 <blockquote>發現自己的盲點，猶如在伸手不見五指情況下，找出一條通往安全的道路。</blockquote>
 <blockquote>陌生是我對臺北市的印象，疏遠是我和這城市目前關係，我們已成為最熟悉的陌生人。</blockquote>
@@ -11,6 +12,7 @@ comments: false
 <blockquote>若我真能如此超脫世俗，何故貪瞋痴卻又甩不開，喜怒哀樂形於外呢？有時自見都感嘆，明明是個俗人，何故自命清高呀！</blockquote>
 <blockquote>生命短暫的可悲，只有活著的人，才有的感嘆！</blockquote>
 <blockquote>拜讀徐皓峰的《 坐看重圍 》，有著醍醐灌頂般得到啟發，話語間充斥著哲理，蘊含著智慧，拳法只是方便之門，其背後是攻防進退的大道理。﻿</blockquote>
+
 <h3>2016</h3>
 <blockquote>在成為尼采所說的超人之前，你應該先學會否定，擁有一股透視否定自我的能力。﻿</blockquote>
 
@@ -50,6 +52,7 @@ comments: false
 <blockquote>若有十分話，我只會說滿九分，剩下一分是留給自己轉身餘地。</blockquote>
 <blockquote>用心體會framework，每個背後的設計理念。</blockquote>
 <blockquote>人無遠慮，必有近憂，正常人預期未來時，會傾向於樂觀，自我感覺良好，只有悲觀主義者比較接近事實。</blockquote>
+
 <h3>2013</h3>
 <blockquote>「兩個不同頻率群組，經由媒介或特定方式，影響群組內各分子行為，進而改變群組頻率，使原本不同頻率群組，逐漸形成共振效應」。原來，我之前的想法，就是「多邊平台(Multi-Sided Platforms)」，即是將兩個截然不同、但相互依賴的客戶群，聚集在一起的平台。</blockquote>
 <blockquote>如果用一個字形容自己，那字便是”傲”，是集結傲氣，傲骨，傲姿而成，我又想當一匹狼，故以”傲狼”自稱口貝！</blockquote>
@@ -87,6 +90,13 @@ comments: false
 <blockquote>不明確的資訊，害我完全低估所需的資源，慶幸自己還有位強力的後盾。唉！為了現實面不得不中斷原本想走的路。</blockquote>
 <blockquote>「男人」出來混就是要做 「口碑」。</blockquote>
 <blockquote>要取得野貓的信任，就像要取得陌生人的信任一樣難。</blockquote>
+<blockquote>不應該一昧貪快，而亂了步伐。</blockquote>
+<blockquote>暴力法雖然很笨，但很實在。</blockquote>
+
+<h3>2012</h3>
+<blockquote>原來網路斷線才能開啟人與人之間的連線。</blockquote>
+<blockquote>女人細心照料盆裁的動作，確實很迷人。</blockquote>
+<blockquote>寫論文就是要寫出一篇動人的故事。</blockquote>
 
 <h3>2011</h3>
 <blockquote>為什麼都要拿充斥變數的未來來嚇人咧！如果~不管相信不相信，無形中都被設好的局所影響。</blockquote>
