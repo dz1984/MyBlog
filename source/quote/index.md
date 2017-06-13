@@ -4,6 +4,8 @@ comments: false
 ---
 <div class='quote'>
 <h3>2017</h3>
+<blockquote>天才和普通人，學習起始點有了前後，最終所到達點差距更大，但是，兩者在過程中，都可以感受到學習樂趣。  看完 <<天才無限家>> 後，有所感發。</blockquote>
+<blockquote>不負責任預言：「當世界只剩下中文和英文兩種語言，人類團結搭起通往宇宙各地的高塔時，上帝便再現世！」</blockquote>
 <blockquote>中文系對文字的精準表達，就好比設計系對顏色的正確色感。</blockquote>
 <blockquote>只有從你手中打一下後，才能真正教會你什麼叫作「不痛」。打中的當下便知痛，痛是為了說明不痛，猶如世俗諦與第一義諦。</blockquote>
 <blockquote>發現自己的盲點，猶如在伸手不見五指情況下，找出一條通往安全的道路。</blockquote>
