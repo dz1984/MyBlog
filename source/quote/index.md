@@ -131,7 +131,36 @@ comments: false
 <blockquote>研究Open Source的專案時，要先去瞭解有什麼與自己以往不同想法的新功能特色，並牢牢記下再與其他的Project比較時，就有Know How可以運用，也是對自己強化核心能力，須要常常做的功課，進而以批評式學習來看待專案之間的差異性，能提出一定層度的批評比較，而表示對此有很深入之瞭解。</blockquote>
 <blockquote>要快速瞭解一項技術或產品時，先不用急著去讀Manual，可以從Feature或是About看起，明白What It Can Do?What It Can't Do?，更高竿一點就是從Feature去揣測運作原理及設計架構。</blockquote>
 <blockquote>除了每天的學習外，還可以多逛有News的網站，去收集更多新的知識和想法，能刺激新鮮的創意誕生。</blockquote>
+<blockquote>證明就像解開一道又一道的鎖。</blockquote>
+<blockquote>名人的語錄、格言、座右銘都高唱知識的重要性，若想反駁論點，也得用上知識。</blockquote>
+<blockquote>瞭解一件事情發生的原因，有助於明白這件事，將會引爆其他關聯事件。</blockquote>
+<blockquote>把焦點放在解決問題的方法，而不是技術。</blockquote>
+<blockquote>我缺少基礎知識來撐起如此龐大且抽象之觀念。</blockquote>
+<blockquote>以後如果有人瞎扯，就可以馬上算出扭曲次方、扭曲係數，算出一切有關於扭曲的量化。</blockquote>
+<blockquote>從未好好思考演化與文明之間的關係。</blockquote>
+<blockquote>披著數學符號魔法袍的老者，骨子裡卻是淘氣的小精靈；以前我看不懂，現在漸漸能明白。</blockquote>
+<blockquote>有人會在練習走路的時候，先研究力學的定律嗎？</blockquote>
+<blockquote>戴上實例眼鏡後，讓抽象觀念無所遁形，i got it!!! </blockquote>
+<blockquote>將文字放置手心，腦中不停地計算排列組合，頓時~在文學世界裡充斥著無限可能。</blockquote>
+<blockquote>魔術，只知道變戲法前後狀態，中間轉換過程，不會透露太多，這是最令人嘖嘖稱奇地方。學微積分的時候，彷彿正在欣賞一場大型的魔術秀，稍不留神就悄悄進入尾聲。</blockquote>
+<blockquote>能開始懷疑答案的正確性是件好事。</blockquote>
+<blockquote>「命是上天註定，運是在自己手中」為斷定人一生命運之原理。</blockquote>
+
 
 <h3>2010</h3>
 <blockquote>存在本身就是意義，意義一直都存在。</blockquote>
+<blockquote>要虛心學習的最好方法就是尊敬和欣賞，如果~懂得尊敬和欣賞就不會自滿了！</blockquote>
+<blockquote>現在覺醒一點都不晚~重點是以後能不能一直保持著清醒。</blockquote>
+<blockquote>自己發現自己的缺失，並勇於去修正，是一件那麼愉悅的事，高興自己又遠離憨人一小步了！</blockquote>
+<blockquote>每天若是能多持續構想三件新的創意或是任何瘋狂的點子，相信對大腦是非常有幫助，也可以讓心靈天馬行空般遨遊，何樂而不為呢？</blockquote>
+<blockquote>改變的定義：是受到大量與原本認知上差異的衝擊，而迫使在觀念或是行為上面，呈現與以往不同的結果。</blockquote>
+<blockquote>情緖真得是創作最大的動力。</blockquote>
+<blockquote>複雜程度？ 是你有走進去再出來還是在外面看一看而已。</blockquote>
+<blockquote>我或許有能力玩火~~~那是不是真的有能力收拾玩火後的結果？</blockquote>
+<blockquote>寫程式就像在寫咒文一樣，要讓黑盒子可以動起來。</blockquote>
+<blockquote>如果主管能意識到內容組織出現斷層，導致無法銜接的問題時，這代表他是位有用心的主管。 </blockquote>
+<blockquote>乞丐，一種截然不同的生活態度，完全不同的生存之道。</blockquote>
+<blockquote>拿時間換金錢，以金錢換快樂 ，中間有東西流失了！</blockquote>
+<blockquote>軍事戰爭推動科技的進步~那商業戰爭推動什麼？</blockquote>
+<blockquote>如何沒有執行力~~~說得再長篇大論或是計劃周詳，也是沒有用啦！</blockquote>
 </div>
