@@ -4,6 +4,11 @@ comments: false
 ---
 <div class='quote'>
 <h3>2017</h3>
+<blockquote>萬般現法性，自恨難相見。</blockquote>
+<blockquote>嘲笑別人的信仰是件恐怖的事。</blockquote>
+<blockquote>時時想著問題，並等待線索出現！</blockquote>
+<blockquote>一件無關緊要小事發生，對整體影響極微小，但當周遭相連事物同時發生時，便會產生連鎖效應，使複雜度提升。</blockquote>
+<blockquote>感悟就像是你聽到一則有趣笑話後，所引起一個真實反應，是由外至內，並在內部延展開來，影響由內至外的表現與詮釋機制。</blockquote>
 <blockquote>當你用好奇心去看這世界，便會發現每天都是新的一天。</blockquote>
 <blockquote>擴展新的思考脈絡，是給予你從未如此思考過的方向和空間，會讓你由衷地感嘆「以前怎麼沒這麼想！」、「原來還可以這樣想！」。</blockquote>
 <blockquote>擴展新的思考脈絡，換上另一種詮釋方式，即是你的大腦會不斷地冒出新舊東西，並且不停地快速攪動，試圖從中找回該有的秩序，等它沉澱靜止後，便是一條截然不同的思路。</blockquote>
