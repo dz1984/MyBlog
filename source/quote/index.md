@@ -87,8 +87,6 @@ comments: false
 <blockquote>左腦是控制邏輯思考，右腦是負責圖像記憶，如果~左腦的結果沒有傳至右腦圖像記憶，就像電腦運算完後沒有儲存一樣的道理。</blockquote>
 <blockquote>為了保證Web應用程式的可靠性和可預測性，多加幾條敘述(並且多花幾微秒的執行時間)是值得的。</blockquote>
 <blockquote>多花點心思在電腦以外的世界，要做電腦的主人，而不是奴隸。</blockquote>
-<blockquote>要虛心學習的最好方法就是尊敬和欣賞，如果~懂得尊敬和欣賞就不會自滿了！</blockquote>
-<blockquote>現在覺醒一點都不晚~重點是以後能不能一直保持著清醒 。</blockquote>
 <blockquote>首先要設立目標，有了目標就有明確地方向，你才知道要該用什麼方法來縮短之間距離。</blockquote>
 <blockquote>我不是頹廢，只是不願還沒真正活過就死去。</blockquote>
 <blockquote>最近，很喜歡這一句「用未來的技術，解決現在的問題」，來個照樣造句「用未來的願景，規劃現在的人生」。</blockquote>
