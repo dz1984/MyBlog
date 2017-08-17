@@ -2,7 +2,7 @@
 layout: post
 title: 昨日世界：找回文明新命脈
 categories: articles
-tags: [book,Python,統計]
+tags: [Book,Python,統計]
 image:
   feature: texture-feature-01.jpg
 ---

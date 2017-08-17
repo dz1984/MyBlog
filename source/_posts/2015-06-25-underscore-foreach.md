@@ -2,7 +2,7 @@
 layout: post
 title: 在 Underscore Template 上完成 foreach
 categories: articles
-tags: [underscore, memo]
+tags: [underscore, Memo]
 date: 2015-06-25 16:05
 ---
 
