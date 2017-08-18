@@ -75,3 +75,7 @@ deploy:
 
 image_minifier:
   enable: false
+
+# Sitmap
+sitmap:
+  path: sitemap.xml
