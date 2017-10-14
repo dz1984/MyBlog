@@ -4,7 +4,14 @@ comments: false
 ---
 <div class='quote'>
 <h3>2017</h3>
-<blockquote>萬般現法性，自恨難相見。</blockquote>
+<blockquote>解題過程中，除了在一定條件下，尋找一個解的存在外，還應該可以檢視這個解的各種性質。</blockquote>
+<blockquote>一般化會失去某些特性，這些特性原本是存在於一些特殊案例上，現在為求一般化，而不得不為此付出代價。</blockquote>
+<blockquote>過去的人生當中，難免會有些後悔的事情，但我們現在能決定的是避免在繼續添加。
+</blockquote>
+<blockquote>如果連第一步：質疑，都無法踏出，怎麼可能會有其他的進步呢？</blockquote>
+<blockquote>一個充滿浪漫的想法，在人生最完美時死去，即是在生理最強壯，心理最健全的時候，可以自然地死亡，這真是個荒謬的想法。</blockquote>
+<blockquote>戰爭即是對立的兩方，拚命地集中自己資源，無條件地拿去請對方削耗掉！</blockquote>
+<blockquote>感嘆處於這個知識量爆炸年代，前面的知識跑得太快，我追趕不上；後面的知識又太沉重，我背負不了。唯有當起一名知識拾荒者，撿拾自己拿得起、搬得動，而且正是所需的知識金磚，這樣才不會陷入知識深淵，無法自拔，這也才不會看著所獲得的知識，悄悄地從指縫中一點一滴溜走。</blockquote>
 <blockquote>嘲笑別人的信仰是件恐怖的事。</blockquote>
 <blockquote>時時想著問題，並等待線索出現！</blockquote>
 <blockquote>一件無關緊要小事發生，對整體影響極微小，但當周遭相連事物同時發生時，便會產生連鎖效應，使複雜度提升。</blockquote>
@@ -30,6 +37,7 @@ comments: false
 
 <h3>2016</h3>
 <blockquote>在成為尼采所說的超人之前，你應該先學會否定，擁有一股透視否定自我的能力。﻿</blockquote>
+<blockquote>萬般現法性，自恨難相見。</blockquote>
 
 <h3>2015</h3>
 <blockquote>神之所以存在是因為祂集所有完美於一身，故人之所以不完美，乃是神所安排，以證明自己的存在。</blockquote>
