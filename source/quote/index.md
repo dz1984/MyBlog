@@ -3,7 +3,15 @@ title:  呢喃
 comments: false
 ---
 <div class='quote'>
+<h3>2018</h3>
+<blockquote>弱者，遇難退之；強者，迎難進之。</blockquote>
+<blockquote>消滅一個文化，絕不能用打壓的方式處理，要改採用「稀釋」方法，滲透替換原有文化，久之，則釜底抽薪，一個文化便會蕩然無存。</blockquote>
+<blockquote>不是只有 Code Review 而已，任何事都要 Review，學習過程要、人生也要，千萬別小看 Review 的力量，它能讓你看得更透徹，更深入。
+</blockquote>
+<blockquote>數學就像是桂冠大湯圓，水餃，鍋貼，碳烤燒餅…等，被包在裡面的東西。</blockquote>
+<blockquote>Taylor 公式的真意，是比起曲線，能用一條直線來解釋，更加平易近人。</blockquote>
 <h3>2017</h3>
+<blockquote>穩定平衡、聚合、資源集中 <---> 動盪不安、分解、資源分散。 社會狀態就在這兩者之間，不停地徘徊。</blockquote>
 <blockquote>解題過程中，除了在一定條件下，尋找一個解的存在外，還應該可以檢視這個解的各種性質。</blockquote>
 <blockquote>一般化會失去某些特性，這些特性原本是存在於一些特殊案例上，現在為求一般化，而不得不為此付出代價。</blockquote>
 <blockquote>過去的人生當中，難免會有些後悔的事情，但我們現在能決定的是避免在繼續添加。
