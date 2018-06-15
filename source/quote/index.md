@@ -175,11 +175,11 @@ comments: false
 <blockquote>改變的定義：是受到大量與原本認知上差異的衝擊，而迫使在觀念或是行為上面，呈現與以往不同的結果。</blockquote>
 <blockquote>情緖真得是創作最大的動力。</blockquote>
 <blockquote>複雜程度？ 是你有走進去再出來還是在外面看一看而已。</blockquote>
-<blockquote>我或許有能力玩火~~~那是不是真的有能力收拾玩火後的結果？</blockquote>
+<blockquote>我或許有能力玩火~那是不是真的有能力收拾玩火後的結果？</blockquote>
 <blockquote>寫程式就像在寫咒文一樣，要讓黑盒子可以動起來。</blockquote>
 <blockquote>如果主管能意識到內容組織出現斷層，導致無法銜接的問題時，這代表他是位有用心的主管。 </blockquote>
 <blockquote>乞丐，一種截然不同的生活態度，完全不同的生存之道。</blockquote>
 <blockquote>拿時間換金錢，以金錢換快樂 ，中間有東西流失了！</blockquote>
 <blockquote>軍事戰爭推動科技的進步~那商業戰爭推動什麼？</blockquote>
-<blockquote>如何沒有執行力~~~說得再長篇大論或是計劃周詳，也是沒有用啦！</blockquote>
+<blockquote>如何沒有執行力~說得再長篇大論或是計劃周詳，也是沒有用啦！</blockquote>
 </div>
