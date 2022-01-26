@@ -126,8 +126,6 @@ comments: false
 <blockquote>要取得野貓的信任，就像要取得陌生人的信任一樣難。</blockquote>
 <blockquote>不應該一昧貪快，而亂了步伐。</blockquote>
 <blockquote>暴力法雖然很笨，但很實在。</blockquote>
-
-<h3>2012</h3>
 <blockquote>原來網路斷線才能開啟人與人之間的連線。</blockquote>
 <blockquote>女人細心照料盆裁的動作，確實很迷人。</blockquote>
 <blockquote>寫論文就是要寫出一篇動人的故事。</blockquote>
