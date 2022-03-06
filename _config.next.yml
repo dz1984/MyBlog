@@ -50,8 +50,8 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/DOOM_16.jpg
-  medium: /images/DOOM_32.jpg
+  small: /images/DOOM2_16.jpg
+  medium: /images/DOOM2_32.jpg
   apple_touch_icon:
   safari_pinned_tab:
   #android_manifest: /manifest.json
