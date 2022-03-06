@@ -10,6 +10,8 @@ date: 2015-06-25 16:05
 
 細節如下：
 
+<!-- more -->
+
 * JS 部份
 
 {% codeblock lang:js %}

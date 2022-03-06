@@ -13,4 +13,6 @@ tags: [Book, 勘誤]
 - 版次： 初版一刷
 - 出版商： 三民書局
 
+<!-- more -->
+
 {% gist 4c30d33699bbd2cda7fd14e01a767ad5 %}

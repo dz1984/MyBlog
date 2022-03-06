@@ -9,6 +9,8 @@ Nicholas Zakas 大神提出 Scalable Javascript architecutre 後，經由 Addy O
 
 ## 寫在前頭
 
+<!-- more -->
+
 你可以從這篇文章得到：
 
 + Kernel.js 簡介。

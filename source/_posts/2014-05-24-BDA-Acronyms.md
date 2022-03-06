@@ -7,6 +7,8 @@ date: 2014-05-24 13:20
 ---
 慢慢整理出在「資料科學」領域用到的縮寫。
 
+<!-- more -->
+
 ```
 AQL - Annotation Query Language
 AOSD - Aspect-Oriented Software Development

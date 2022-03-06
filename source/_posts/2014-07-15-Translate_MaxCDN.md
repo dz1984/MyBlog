@@ -14,6 +14,8 @@ date: 2014-07-15 17:35
 + 減少軟體層
 + 讓客戶直接查詢
 
+<!-- more -->
+
 MaxCDN 工程師打算重新建置報表及分析平台，提供更多資訊給客戶做決策，像是強大API提供客戶存取 Log 資料，以及給非開發人員使用的 [Log Viewer](https://cp.maxcdn.com/reporting/logs) 。因為這樣特別的需求，MaxCDN 工程團隊使用夢幻工具打造出一個全新的報表環境(reporting stack)，其平台是以[MongoDB](http://www.mongodb.com/)強化版的 [TokuMX](http://www.tokutek.com/products/tokumx-for-mongodb/) 為基礎，比起 MongoDB 還更快速。
 
 為了更快速塞資料到 TokuMX ，就特別用Go寫成的代理人，Go 比起傳統語言在平行處理策略中，像是C++、Java等，能充分發揮出多核 CPUs 能力，寫出極速的應用程式。

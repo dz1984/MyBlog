@@ -8,6 +8,8 @@ date: 2017-06-03 10:41:23
 
 在拜讀[《Learn You a Haskell for Great Good!》](http://learnyouahaskell.com)一書中，介紹 Monad 定義時，提到可以不用下 Applicative 的類別約束，那是因為此書範例仍停留在 `GHC 6.8.2` 版本，但資訊界可是日新月異，在這推陳出新的時代，早已行不通了！
 
+<!-- more -->
+
 現在來看一下失敗案例：
 
 ```haskell

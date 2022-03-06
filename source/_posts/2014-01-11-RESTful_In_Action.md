@@ -10,9 +10,11 @@ date: 2014-01-11 12:20
 ## Summay
 
 練習使用RESTful Web Servicet技術打造一個簡單書藉管理Web應用程式。
+
 ### REST & RESTFul Web Services
 REST (Reprsentational State Transfer)是軟體構設計風格，並不是標準。RESTful Web Services是使用HTTP協定，並遵循REST原則的Web服務。
 
+<!-- more -->
 ---
 
 ## 動手實作

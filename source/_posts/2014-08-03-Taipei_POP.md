@@ -7,6 +7,8 @@ date: 2014-08-03 18:30
 ---
 [天龍特公地](http://g0v.github.io/POPonFire/)是[公有地大行動](http://hackfoldr.org/POPonFire/)的子項目之一，主要是因為獲得一份野生並帶點神秘色彩資料，裡面記載臺北市區全部公有可建築空地，其資料是如此無比珍貴，卻因為是```CSV```格式，難以讓人閱讀，就萌生做成 Web 版，提供大家方便使用，正是此計畫用意。
 
+<!-- more -->
+
 ### Google Maps API
 
 在 2014 年三月多，Google Maps API (v3) 開始支援 GeoJSON 功能<sup>[1](#footer01)</sup>，方便在 Google 地圖存取 GeoJSON 資料，[GeoJSON]() 是目前火紅地理資訊的開放標準資料格式，官方定義：

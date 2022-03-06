@@ -8,6 +8,9 @@ image:
 date: 2013-12-25 12:20
 ---
 ### 寫在前頭
+
+<!-- more -->
+
 這是從簡報取出文章，雖然字數不多，但我卻已經翻譯良久，品質還有待加強，若有錯誤或不順地方，麻煩請指正。
 
 原文網址：[12 Big Data Predictions for 2014](http://www.cio.com/slideshow/detail/132163)

@@ -5,7 +5,10 @@ categories: articles
 tags: [Docker, eia_crawler]
 date: 2014-10-19 21:00
 ---
+
 ## 寫在前頭
+
+<!-- more -->
 
 近來，想嘗試在 CentOS 7 x86_64 安裝 Scrapy 卻一直受挫，原因是 lxml 無法順利編譯，一些該裝套件（libxml2、libxslt、libxslt-devel 也沒少裝，可以試的方法也都試過，耗了許多寶貴時間，最後，宣告失敗。
 
